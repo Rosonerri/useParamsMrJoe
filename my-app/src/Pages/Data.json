@@ -1,0 +1,67 @@
+[
+    {
+            "id" : 1,
+            "img": "../images/Sys.png",
+            "text5": "RobinHood",
+            "text4": "PG-13 • Action, Drama • Movie",
+            "Description": "Starring: Denzel WashingtonMarton CsokasChloë Grace Moretz",
+            "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+    },
+    {
+        "id" : 2,
+        "img": "../images/Hulu2.jpg",
+        "text5": "Lucy",
+        "text4": "PG-13 • Action, Drama • Movie",
+        "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+        "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+},
+{
+    "id" : 3,
+    "img": "../images/Lucy.jpg",
+    "text5": "The System",
+    "text4": "PG-13 • Action, Drama • Movie",
+    "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+    "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+},
+{
+    "id" : 4,
+    "img": "../images/movie2.jpg",
+    "text5": "RobinHood",
+    "text4": "PG-13 • Action, Drama • Movie",
+    "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+    "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+},
+{
+    "id" : 5,
+    "img": "../images/movie3.jpg",
+    "text5": "We're Miller",
+    "text4": "PG-13 • Action, Drama • Movie",
+    "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+    "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+},
+{
+    "id" : 6,
+    "img": "../images/Hulu2.jpg",
+    "text5": "Hulu",
+    "text4": "PG-13 • Action, Drama • Movie",
+    "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+    "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+    
+},
+{
+    "id" : 7,
+    "img": "../images/ASGood.png",
+    "text5": "Good As Dead",
+    "text4": "PG-13 • Action, Drama • Movie",
+    "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+    "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+},
+{
+    "id" : 8,
+    "img": "../images/disney.png",
+    "text5": "Disney",
+    "text4": "PG-13 • Action, Drama • Movie",
+    "Description": "TVMA Horror Black Stories+Movie2023 Stream thousands of shows and movies, with plans starting at $7.99/month.",
+    "Desc2": "When Billie finds herself reliving different versions of the same first date, she must break out of a series of loops created by her manipulative ex-girlfriend.....MORE Director: Kelley Kali"
+}
+]   
